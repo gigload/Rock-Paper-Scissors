@@ -1,6 +1,3 @@
-//const humanSelection = getHumanChoice();
-//const computerSelection = getComputerChoice(1, 4);
-
 let humanScore = 0;
 let computerScore = 0;
 
